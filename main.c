@@ -1,5 +1,5 @@
 #include <stdio.h>
-//統一發票對獎
+//統一發票對獎https://e-tutor.itsa.org.tw/e-Tutor/mod/programming/view.php?id=30778
 int main(){
     int lott[4][8];
     for (int i=0; i<4; i++) {
